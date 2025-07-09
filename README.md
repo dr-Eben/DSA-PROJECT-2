@@ -31,11 +31,11 @@ Support and Legal are more balanced or lean toward female representation.
 
 ![perf rating by gender](https://github.com/user-attachments/assets/2a759283-d965-49a8-9c6f-a42b2480a180)
 
-The rating performances shows that "Good" and "Very Good" ratings are dominant across all gender categories, but:
+The rating performances shows that "Average" and "Good" ratings are dominant across all gender categories, but:
 
-Males have a notably higher count in the "Very Good" category.
+Males have a notably higher count in the "Average" category.
 
-Females show a slightly more even distribution, with visible counts in "Poor" and "Average".
+Females show a slightly more even distribution, with visible counts in "Poor" and "Good".
 
 Other gender employees also show strong "Very Good" ratings.
 Which led me to conclude that there might be potential bias or departmental skew in how performance is rated.
